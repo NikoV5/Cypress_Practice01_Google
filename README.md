@@ -12,3 +12,9 @@ npm init -y
 ```bash
 npm install cypress -D
 ```
+
+## Running the cypress test runner
+
+```bash
+npx cypress open
+```
